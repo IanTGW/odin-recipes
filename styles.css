@@ -1,0 +1,31 @@
+* {
+    font-family: "Arial", "Verdana", sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+h2 {
+    background-color: rgb(127, 255, 238);
+}
+
+
+.food {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+ul, ol {
+    background-color: bisque;
+}
+
+#linklist {
+    text-align: center;
+}
